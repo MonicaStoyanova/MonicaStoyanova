@@ -1,30 +1,40 @@
+# Hi there! 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="100"/>
-</div>
+I'm Monica, an aspiring Front-End Developer. My journey into web development started with a deep fascination for how websites are built and the endless possibilities they offer. I'm on a mission to learn and grow in the world of web development.
 
+## About Me
 
-# 💫 About Me:
-- 🌱 I’m currently learning React
+- 🌱 I'm enthusiastic about web development and enriched my skills through courses at SoftUni. Additionally, I've broadened my knowledge by devouring YouTube videos and insightful blog posts.
 
+- 🔥 My current passion is React. I find the concept of building interactive user interfaces with React both exciting and empowering. I'm dedicating my time to mastering this powerful library.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monica-stoyanova) 
+- 🚀 I enjoy turning creative ideas into functional code. Whether it's a simple website or a complex web application, I'm always up for a coding challenge.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MonicaStoyanova&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MonicaStoyanova&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaStoyanova&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 📚 I believe in continuous learning, and I'm committed to staying updated with the latest trends and best practices in front-end development.
 
-## 🏆 GitHub Trophies
+### 💻Tech Stack
+
+Here are some of the technologies I'm working with:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+I'm eager to expand my skill set and delve deeper into the world of web development.
+
+#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MonicaStoyanova&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+##### 🌐Connect with Me
 
----
-[![](https://visitcount.itsvg.in/api?id=MonicaStoyanova&icon=5&color=7)](https://visitcount.itsvg.in)
+📫 You can connect with me on [LinkedIn](https://linkedin.com/in/monica-stoyanova). Feel free to reach out if you'd like to chat about web development, share resources, or collaborate on projects.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###### 🎉 Fun Fact
+
+Here's a random joke to brighten your day:
+
+![Joke](https://readme-jokes.vercel.app/api)
+
+
+
