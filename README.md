@@ -36,9 +36,5 @@ Here's a random joke to brighten your day:
 
 ![Joke](https://readme-jokes.vercel.app/api)
 
-<!-- GitHub Stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=monicastoyanova&show_icons=true&theme=radical)
-
-
 
 
