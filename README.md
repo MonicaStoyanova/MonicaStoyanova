@@ -1,18 +1,19 @@
 # Hi there! 👋
 
-I'm Monica, an aspiring Front-End Developer. My journey into web development started with a deep fascination for how websites are built and the endless possibilities they offer. I'm on a mission to learn and grow in the world of web development.
+I'm Monica, a passionate Front-End Developer on a captivating journey into the realm of web development. My fascination with crafting websites ignited a relentless pursuit of knowledge, driving me to explore the endless possibilities within this dynamic field.
 
 ## About Me
 
-- 🌱 I'm enthusiastic about web development and enriched my skills through courses at SoftUni. Additionally, I've broadened my knowledge by devouring YouTube videos and insightful blog posts.
+- 🌱 I'm enthusiastic about web development and enriched my skills through courses at SoftUni. Additionally, I've broadened my knowledge by devouring YouTube videos, Udemy and insightful blog posts.
 
-- 🔥 My current passion is React. I find the concept of building interactive user interfaces with React both exciting and empowering. I'm dedicating my time to mastering this powerful library.
+- 🔥 Currently immersed in the captivating world of React, where I'm dedicating my time to mastering the art of building interactive user interfaces.
 
 - 🚀 I enjoy turning creative ideas into functional code. Whether it's a simple website or a complex web application, I'm always up for a coding challenge.
 
-- 📚 I believe in continuous learning, and I'm committed to staying updated with the latest trends and best practices in front-end development.
+- 📚 Committed to continuous learning, staying abreast of the latest trends, and adopting best practices in front-end development.
 
 ### 💻Tech Stack
+Eagerly delving into the intricacies of TypeScript and harnessing the power of Redux to manage state in my web development projects.
 
 Here are some of the technologies I'm working with:
 
